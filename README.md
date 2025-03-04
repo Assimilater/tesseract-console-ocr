@@ -19,3 +19,7 @@ Training data was generated using **Windows 11 Terminal (PowerShell)**, but **`g
  - ✅ **Auto-generates varied console output** via `generation_functions` (extend it to add new cases).
 
 If you're using a different terminal setup, tweak `wrap_length` and `visible_lines` to ensure **the generated text fills the visible area properly**, ensuring you train OCR on accurate data.
+
+### 📥 Download Training Data
+The training dataset can be downloaded from **The Internet Archive**:
+ - 👉 [training_202503](https://archive.org/details/training_202503)
